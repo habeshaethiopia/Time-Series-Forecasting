@@ -1,13 +1,12 @@
 
-
 # Time Series Forecasting Project
 
 ## Overview
-This project is focused on time series forecasting using various machine learning models. It is structured to facilitate data handling, model training, and evaluation, as well as exploratory data analysis through Jupyter notebooks.
+This project focuses on time series forecasting using various machine learning models. It is structured to facilitate data handling, model training, evaluation, and exploratory data analysis through Jupyter notebooks.
 
 ## Project Structure
 ```
-Week11-Time-Series-Forecasting/
+Time-Series-Forecasting/
 ├── data/                # Contains data-related functions and classes
 ├── models/              # Contains machine learning models
 ├── notebooks/           # Jupyter notebooks for analysis and training
@@ -24,7 +23,7 @@ Week11-Time-Series-Forecasting/
    ```
 2. Navigate to the project directory:
    ```
-   cd Week11-Time-Series-Forecasting
+   cd Time-Series-Forecasting
    ```
 3. Create a virtual environment (optional but recommended):
    ```
