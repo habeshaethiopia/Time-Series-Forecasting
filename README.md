@@ -115,6 +115,8 @@ time-series-portfolio-optimization/
   - pmdarima (optional, for auto_arima)
 
 ## **References**
+ - [YFinance Documentation](https://pypi.org/project/yfinance/)
+ - [my report](https://docs.google.com/document/d/1c2l5SAtIC4XbVt6c-dvUnKD5LkETewIJek5uhkvbTuw/edit?usp=sharing)
 - [DataCamp: ARIMA](https://www.datacamp.com/tutorial/arima)
 - [Machine Learning Mastery: ARIMA](https://machinelearningmastery.com/arima-for-time-series-forecasting-with-python/)
 - [Portfolio Optimization with PyPortfolioOpt](https://github.com/robertmartin8/PyPortfolioOpt)
